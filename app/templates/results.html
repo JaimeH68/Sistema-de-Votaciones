@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block title %}Voting Statistics{% endblock %} {%
+block content %}
+<h1>Estadísticas de la Votación</h1>
+
+<p><strong>Total de votantes registrados:</strong> {{ total_voters }}</p>
+<p><strong>Total de votantes que han votado:</strong> {{ voters_who_voted }}</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Candidato</th>
+      <th>Votos</th>
+      <th>Porcentaje</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for c in statistics %}
+    <tr>
+      <td>{{ c.candidate_id }}</td>
+      <td>{{ c.name }}</td>
+      <td>{{ c.votes }}</td>
+      <td>{{ c.percentage }}%</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
