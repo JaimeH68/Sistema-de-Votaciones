@@ -31,32 +31,32 @@ Se redirige a la pagina de Swagger UI para ver los endpoints del proyecto.
 
 A continuación adjunto imagenes donde se agrega informacion y los resultados que este arroja junto con las estadisticas de votación:
 
-Vista general de los Endpoints:
+## Vista general de los Endpoints:
 
-![Swagger UI](https://github.com/user-attachments/assets/1f8de3d1-658c-47f6-9234-4c5ac92dd941)
+![Swagger UI](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Swagger%20UI.png)
 
 
 ## Creacion de Votantes
 
-![Create Voter](https://github.com/user-attachments/assets/abfc24c8-6dbf-467c-b805-5b1902f095e7)
+![Create Voter](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Create%20Voter.png)
 
-![Result Voter](https://github.com/user-attachments/assets/de70da93-33d5-4914-a962-90131f7f0dc9)
+![Result Voter](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Result%20Voter.png)
 
 
 ## Creación de Candidatos
 
-![Create Candidate](https://github.com/user-attachments/assets/73895e0b-0d8c-437d-952f-2476e1679d6b)
+![Create Candidate](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Create%20Candidate.png)
 
-![Result Candidate](https://github.com/user-attachments/assets/a8f037c4-831a-4fc8-9959-3b7042b5578b)
+![Result Candidate](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Result%20Candidate.png)
 
 
 ## Procedimiento de votación
 
-![Submit Votes](https://github.com/user-attachments/assets/5da01996-fc65-497b-8440-82ff134ed74b)
+![Submit Votes](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Submit%20Votes.png)
 
-![Statistics Votes](https://github.com/user-attachments/assets/819d1c3e-e440-4dd3-b2d6-eecc494255bd)
+![Statistics Votes](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/Statistics%20Votes.png)
 
 
 ## Vista de Estadisticas
 
-![View Statistics](https://github.com/user-attachments/assets/dc18afa3-901c-4897-909f-efc6bc471fef)
+![View Statistics](https://github.com/JaimeH68/prueba-tecnica-JaimeH68/blob/9b4fac8bcdb33525d2d111991a125ba3facfede3/assets/View%20Statistics.png)
